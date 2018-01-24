@@ -1,2 +1,4 @@
 # hello-world
-This is the beginning of the end!
+Hello Out there!
+
+This is Tinus checking out Hello World! with git !
