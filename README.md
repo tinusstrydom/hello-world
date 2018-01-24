@@ -1,4 +1,4 @@
 # hello-world
 Hello Out there!
 
-This is Tinus checking out Hello Worl! with git !
+This is Tinus checking out Hello World! with git !
